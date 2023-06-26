@@ -23,6 +23,7 @@ Product.belongsToMany(Tag, {
 });
 
 // Tags belongToMany Products (through ProductTag)
+
 Tag.belongsToMany(Product, {
   forignKey: "tag_id",
 });
