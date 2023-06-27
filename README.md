@@ -23,7 +23,9 @@ Node JS based inventory control application.
 ## Installation
 
 To install necessary dependencies, run the following command: <br>
-npm i. To run the application, run nodemon server in your terminal and use Insomnia to emulate your browser.
+npm i in the terminal <br>
+Run mysql, install the db, as well as seed the db using node JS command "node seeds/index.js"<br>
+To run the application, run nodemon server in your terminal and use Insomnia to emulate your browser, using the routes.<br>
 
 ## Usage
 
