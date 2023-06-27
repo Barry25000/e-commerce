@@ -23,7 +23,7 @@ Node JS based inventory control application.
 ## Installation
 
 To install necessary dependencies, run the following command: <br>
-yes
+npm i. To run the application, run nodemon server in your terminal and use Insomnia to emulate your browser.
 
 ## Usage
 
@@ -47,5 +47,5 @@ There are no tests at this time.
 ## Questions
 
 Please direct any questions to.<br>
-Barry Engler and my Tutor Nathan Engler at barryengler@gmail.com <br>
+barryengler@gmail.com <br>
 [GitHub](https://github.com/Barry250000)
