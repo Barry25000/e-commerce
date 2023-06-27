@@ -52,7 +52,11 @@ Please direct any questions to.<br>
 barryengler@gmail.com <br>
 [GitHub](https://github.com/Barry250000)
 
+## Video Link
+
 Video Link https://drive.google.com/file/d/157XbEoXs_duiesFZRfN-RA07tkGGAhuQ/view
+
+## Screen Shots
 
 ![Insomnia](image.png)
 
